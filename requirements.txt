@@ -1,0 +1,2 @@
+wirepas_mqtt_library>=1.2.6
+mbproto>=1.0.2
